@@ -21,5 +21,7 @@ class dlhome extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('view');
+		$this->load->view('login');
+		$this->load->view('register');
 	}
 }
