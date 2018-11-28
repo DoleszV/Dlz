@@ -8,7 +8,7 @@
     <!--=== Favicon ===-->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
-    <title>Cardoor - Car Rental HTML Template</title>
+    <title>DLZ - Rental Mobil</title>
 
     <!--=== Bootstrap CSS ===-->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -25,7 +25,7 @@
     <!--=== Theme Reset CSS ===-->
     <link href="assets/css/reset.css" rel="stylesheet">
     <!--=== Main Style CSS ===-->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <!--=== Responsive CSS ===-->
     <link href="assets/css/responsive.css" rel="stylesheet">
 
@@ -127,8 +127,8 @@
                                         <li><a href="faq.html">FAQ</a></li>
                                         <li><a href="gallery.html">Gallery</a></li>
                                         <li><a href="help-desk.html">Help Desk</a></li>
-                                        <li><a href="login.html">Log In</a></li>
-                                        <li><a href="register.html">Register</a></li>
+                                        <li><a href="login.php">Log In</a></li>
+                                        <li><a href="register.php">Register</a></li>
                                         <li><a href="404.html">404</a></li>
                                     </ul>
                                 </li>
